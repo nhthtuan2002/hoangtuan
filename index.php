@@ -1,1 +1,1 @@
-<?php include_once("nhatrinhvien/test.html"); ?>
+<?php include_once("test.html"); ?>
